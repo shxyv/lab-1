@@ -1,0 +1,38 @@
+body{
+  margin-left : 80px;
+  margin-right: 80px;
+}
+.content{
+    display: flex;
+}
+
+li {
+  border: 1px solid white;
+  border-radius : 20%;
+  display: inline-block;
+  padding : 30px;
+  background-color: white;
+}
+
+nav>ul{
+  background-color : #57967B; 
+  text-align : center;
+}
+
+.sidebar{
+  display : block;
+  background-color : black;
+  color : white;
+  padding : 70px;
+  margin : 20px;
+}
+section{
+  padding : 30px;
+}
+.sections{
+    width: 82%;
+}
+#sidebar{
+  background-color: #59B48D;
+  width: 18%;
+}
